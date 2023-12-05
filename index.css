@@ -1,0 +1,53 @@
+*{
+    color:black;
+    
+}
+.navbar{
+    background-color:#dda0dd;
+    height:80px;
+    font-size: medium;
+}
+
+#logo{
+    color:blueviolet;
+    font-size:35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+}
+
+button{
+    color:black;
+    background-color:burlywood;
+}
+
+a{
+    margin-right:200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.body{
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:peachpuff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img{
+    margin:0px;
+    padding:0px;
+    width:500px;
+    height:350px;
+    margin-left:30%;
+    margin-right:50%;
+    border-radius: 50%;
+}
+
+p{
+    text-align:center;
+    font-style: italic;
+    font-size: xx-large;
+}
